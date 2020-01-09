@@ -1,9 +1,0 @@
-
-Hello Git In GitInPractice2
-Hello Git From Local Repository
-Hello Git Test
-Hello From Another Clone
-Hello From master
-Hello From Chapter-two
-Hello For Fetch
-Hello From issue_one branch
